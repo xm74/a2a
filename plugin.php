@@ -62,7 +62,7 @@ class plugina2a extends Plugin {
 
                 $html .= '<div>';
                 $html .= '<label for="a2aminifyurl">'.$Language->get('enable-google-url-shortener').'</label>';
-                $html .= '<select id="a2aminifyurl" name="MinifyURL">';
+                $html .= '<select id="a2aminifyurl" name="enableMinifyURL">';
                 $html .= '<option value="true" '.($this->getValue('enableMinifyURL')===true?'selected':'').'>'.$Language->get('enabled').'</option>';
                 $html .= '<option value="false" '.($this->getValue('enableMinifyURL')===false?'selected':'').'>'.$Language->get('disabled').'</option>';
                 $html .= '</select>';
