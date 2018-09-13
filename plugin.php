@@ -15,6 +15,7 @@ class plugina2a extends Plugin {
 				<a class="a2a_button_twitter"></a>
 				<a class="a2a_button_google_plus"></a>
 				<a class="a2a_button_linkedin"></a>
+				<a class="a2a_button_mastodon"></a>
 				<a class="a2a_dd" href="https://www.addtoany.com/share"></a>
 			</div>
 		</div>
