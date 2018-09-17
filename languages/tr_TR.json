@@ -1,0 +1,12 @@
+{
+        "plugin-data":
+        {
+                "name": "a2a paylaş düğmeleri",
+                "description": "AddToAny bir dizi sosyal paylaşım düğmesidir."
+        },
+        "enable-addtoany-on-pages": "Sabit sayfalarda AddToAny",
+        "enable-addtoany-on-posts": "Yazılarda AddToAny",
+        "enable-google-url-shortener": "Google URL kısaltıcı",
+	"a2a-special-css": "Özel CSS",
+	"complete-this-field-with-css-code": "Tema stillerini düzeltmek için bu alanı CSS koduyla tamamlayın"
+}
