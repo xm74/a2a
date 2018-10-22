@@ -5,6 +5,9 @@ Share you pages across social networks using AddToAny universal sharing platform
 Versions
 --------
 
+**v0.3.2 @ 22/10/2018**
+- (+) add Bludit 3.2 compatibility
+
 **v0.3.1 @ 26/08/2018**
 - (+) add Bludit 3.x compatibility
 
