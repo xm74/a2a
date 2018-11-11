@@ -5,6 +5,6 @@
         "version": "0.3.2",
         "releaseDate": "2018-10-22",
         "license": "MIT",
-        "compatible": "3.3",
+        "compatible": "3.4",
         "notes": "Based on AddToAny plugin by 320up"
 }
