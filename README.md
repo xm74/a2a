@@ -5,6 +5,9 @@ Share you pages across social networks using AddToAny universal sharing platform
 Versions
 --------
 
+**v0.3.3 @ 17/09/2019**
+- (+) do not show buttons on error page
+
 **v0.3.2 @ 22/10/2018**
 - (+) add Bludit 3.2 compatibility
 
