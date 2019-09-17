@@ -2,8 +2,8 @@
         "author": "Max Kostikov",
         "email": "max@kostikov.co",
         "website": "https://kostikov.co",
-        "version": "0.3.2",
-        "releaseDate": "2018-10-22",
+        "version": "0.3.3",
+        "releaseDate": "2019-09-17",
         "license": "MIT",
         "compatible": "3.4",
         "notes": "Based on AddToAny plugin by 320up"
