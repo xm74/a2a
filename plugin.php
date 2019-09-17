@@ -81,6 +81,10 @@ class plugina2a extends Plugin {
         public function pageEnd()
         {
                 global $url, $page;
+		
+		if ($url->notFound()) {
+			return false;
+		}
 
                 if( $url->whereAmI()=='page' ) {
                         if( ($this->getValue('enablePosts') && $page->published()) ||
