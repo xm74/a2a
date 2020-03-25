@@ -1,12 +1,12 @@
 {
         "plugin-data":
         {
-                "name": "a2a share buttons",
-                "description": "AddToAny набор кнопок для добавления в социальные сети."
+                "name": "Кнопки поделиться",
+                "description": "AddToAny набор кнопок «поделиться» для социальных сетей."
         },
-		"enable-addtoany-on-pages": "AddToAny для страниц",
-        "enable-addtoany-on-posts": "AddToAny для публикаций",
-        "enable-google-url-shortener": "Cокращение ссылок",
-        "a2a-special-css": "Особый CSS",
-        "complete-this-field-with-css-code": "Заполните это поле CSS-кодом для корректировки стилей темы"
+	"enable-addtoany-on-pages": "Включить AddToAny для страниц",
+        "enable-addtoany-on-posts": "Включить AddToAny для записей",
+        "enable-google-url-shortener": "Cокращать ссылки (через сервис от Google)",
+        "a2a-special-css": "Пользовательскй CSS",
+        "complete-this-field-with-css-code": "Добавьте сюда свой CSS-код для корректировки дизайна набора кнопок и используемой темы"
 }
